@@ -6,7 +6,7 @@ I am passionate about cybersecurity
 and it's ever-evolving landscape.
 I am intrigued on how the defensive and
 offensive sides comes to play in this field. 
-My core focus is the path of purple teaming.
+Below, I have done projects for both roles as my core focus is purple teaming. 
 
 
 
