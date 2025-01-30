@@ -10,12 +10,12 @@ My core focus is the path of purple teaming.
 
 
 
-## ⚠️ Vulnerability Management Projects
+## Threat Hunting and Incident Response Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 
-## 🚨 Threat Hunting and Security Operations
+## Cloud Security and System Administration Projects
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
 
