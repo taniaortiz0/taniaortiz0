@@ -5,10 +5,10 @@
 Eager to contribute to a future-focused organization by optimizing IT systems and implement strong security strategies.
 
 ______________________________________________________________________________________________
-## Networking Projects 
-### Cisco Packet Tracker Simulations
+## Networking & IT Support Projects 
+### Cisco Packet Tracker Simulations & IT Troubleshooting Mechanisms
 
-
+______________________________________________________________________________________________
 
 ## Network Security Projects
 
