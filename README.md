@@ -4,7 +4,7 @@
 
 Eager to contribute to a future-focused organization by optimizing IT systems and implement strong security strategies.
 
-----------------------------------------------------------------------------------------------
+______________________________________________________________________________________________
 
 ## Network Security Projects
 
@@ -13,10 +13,10 @@ Eager to contribute to a future-focused organization by optimizing IT systems an
 * Need to add Brief/Introduction of project.*
 * Tools *
 * Key Outcomes *
------------------------------------------------------------------------------------------------
-
-### Man-in-Middle Attack Simulation and Mitigation
+_______________________________________________________________________________________________
+### Man-in-Middle (MitM) Attack Simulation and Mitigation
 
 * Need to add Brief/Introduction of project.*
 * Tools *
 * Key Outcomes *
+_______________________________________________________________________________________________
