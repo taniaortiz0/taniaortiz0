@@ -1,6 +1,6 @@
 # Tania Ortiz
 #### Cybersecurity Undergraduate Student 
-🔗[LinkedIn]
+🔗 [**LinkedIn**](https://www.linkedin.com/in/tania-ortiz1)
 
 Eager to contribute to a future-focused organization by optimizing IT systems and implement strong security strategies.
 
