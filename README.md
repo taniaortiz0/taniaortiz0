@@ -6,7 +6,7 @@ Eager to contribute to a future-focused organization by optimizing IT systems an
 
 ______________________________________________________________________________________________
 ## Networking & IT Support Projects 
-### Cisco Packet Tracker Simulations & IT Troubleshooting Mechanisms
+### Cisco Packet Tracker Simulations & IT Troubleshooting
 
 ______________________________________________________________________________________________
 
