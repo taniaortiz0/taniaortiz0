@@ -7,7 +7,13 @@ Eager to contribute to a future-focused organization by optimizing IT systems an
 ## Network Security Projects
 
 ### DDOS Implementation and Countermeasures
-#### DDOS Attack Simulation and Mitigation
+
+* Need to add Brief/Introduction of project.*
+* Tools *
+* Key Outcomes *
+-----------------------------------------------------------------------------------------------
+
+### Man-in-Middle Attack Simulation and Mitigation
 
 * Need to add Brief/Introduction of project.*
 * Tools *
