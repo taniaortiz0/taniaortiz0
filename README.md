@@ -11,19 +11,6 @@ ________________________________________________________________________________
 ### Cisco Packet Tracker Simulations & IT Support
 #### Building a Office Network & IT Support Implementation
 
-______________________________________________________________________________________________
+** Brief/Introduction
+*** Keynotes:
 
-## Network Security Projects
-
-### DDOS Implementation and Countermeasures
-
-* Need to add Brief/Introduction of project.*
-* Tools *
-* Key Outcomes *
-_______________________________________________________________________________________________
-### Man-in-Middle (MitM) Attack Simulation and Mitigation
-
-* Need to add Brief/Introduction of project.*
-* Tools *
-* Key Outcomes *
-_______________________________________________________________________________________________
