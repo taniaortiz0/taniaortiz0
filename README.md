@@ -15,12 +15,14 @@ ________________________________________________________________________________
 *** Keynotes:
 _______________________________________________________________________________________________
 
-## SOC Analyst Projects 
+## Cybersecurity & SOC Analyst Projects 
 
-## SIEM Environment 
+Creating a SIEM Environment using Microsoft Azure
 
-** Brief/Introduction
-*** Keynotes: 
+> Tools: Microsoft Azure Services (Resource group, Log Analytics Workspace, Windows 10 VM,
+Virtual network, Network security group)
+> Keynotes:
+-  Created Resource group **Continue on writing the keynotes for this SIEM project** 
 
 _______________________________________________________________________________________________
 
