@@ -23,7 +23,7 @@ Tools: Microsoft Azure Services (Resource group, Log Analytics Workspace, Window
 Virtual network, Network security group)
 
 Keynotes:
--  Created Resource group **Continue on writing the keynotes for this SIEM project** 
+-  Created Resource group
 
 _______________________________________________________________________________________________
 
