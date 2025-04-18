@@ -17,8 +17,7 @@ ________________________________________________________________________________
 
 ## Cybersecurity & SOC Analyst Projects 
 
-Creating a SIEM Environment using Microsoft Azure
-
+### [Creating a SIEM Environment using Microsoft Azure](
 
 Tools: Microsoft Azure Services (Resource group, Log Analytics Workspace, Windows 10 VM,
 Virtual network, Network security group)
