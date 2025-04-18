@@ -17,7 +17,7 @@ ________________________________________________________________________________
 
 ## Cybersecurity & SOC Analyst Projects 
 
- [** SIEM Simulation with Microsoft Azure**](
+ [** SIEM Simulation with Microsoft Azure**](https://github.com/taniaortiz0/SIEM-Simulation-with-Microsoft-Azure)
 
 Tools: Microsoft Azure Services (Resource group, Log Analytics Workspace, Windows 10 VM,
 Virtual network, Network security group)
