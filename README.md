@@ -29,7 +29,7 @@ ________________________________________________________________________________
 
 ## Windows Active Directory Projects
 
-[**Active Directory and Group Policy Management with PowerShell Automation**](https://github.com/taniaortiz0/AD-GPM-with-PowerShell-Automation)
+[**Active Directory Home Lab**](https://github.com/taniaortiz0/AD-GPM-with-PowerShell-Automation)
 
 
 
