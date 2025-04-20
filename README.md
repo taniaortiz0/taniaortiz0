@@ -26,7 +26,7 @@ Keynotes:
 
 [**Vulnerability Management using Nessus (Tenable) + Scan and Fix Vulnerabilities**](https://github.com/taniaortiz0/Vulnerability-Management-using-Nessus)
 
-Tools: VmWare Workstation Pro 17, Nessus Vulnerability Management Software, Windows 11
+Tools: Microsoft Azure, Nessus Vulnerability Management Software, Windows 11, VmWare Workstation Pro 17
 
 [**Vulnerability Management using Greenbone OpenVAS**](https://github.com/taniaortiz0/Vulnerability-Management-using-Greenbone-OpenVAS)
 _______________________________________________________________________________________________
