@@ -30,7 +30,7 @@ Keynotes:
 
 [**Vulnerability Management using Greenbone OpenVAS**](https://github.com/taniaortiz0/Vulnerability-Management-using-Greenbone-OpenVAS)
 
-*** Tools: 
+*** Tools: Microsoft Azure Services, Greenbone OpenVAS
 
 *** Keynotes:
 _______________________________________________________________________________________________
