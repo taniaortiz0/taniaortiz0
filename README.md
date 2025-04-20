@@ -28,7 +28,7 @@ Keynotes:
 
 Tools: VmWare Workstation Pro 17, Nessus Vulnerability Management Software, Windows 11
 
-[Vulnerability Management using Greenbone OpenVAS](https://github.com/taniaortiz0/Vulnerability-Management-using-Greenbone-OpenVAS)
+[**Vulnerability Management using Greenbone OpenVAS**](https://github.com/taniaortiz0/Vulnerability-Management-using-Greenbone-OpenVAS)
 _______________________________________________________________________________________________
 
 ## Windows Active Directory Projects
