@@ -11,34 +11,34 @@ ________________________________________________________________________________
 ### Cisco Packet Tracker Simulations & IT Support
 #### Building a Office Network & IT Support Implementation
 
-*** Tools:
-*** Keynotes:
+##### Tools:
+##### Keynotes:
 _______________________________________________________________________________________________
 
 ## Cybersecurity & SOC Analyst Projects 
 
  [**SIEM Simulation with Microsoft Azure + Honeypot**](https://github.com/taniaortiz0/SIEM-Simulation-with-Microsoft-Azure)
 
-Tools: Microsoft Azure Services (Resource group, Log Analytics Workspace, Windows 10 VM,
+##### Tools: Microsoft Azure Services (Resource group, Log Analytics Workspace, Windows 10 VM,
 Virtual network, Network security group)
 
-Keynotes:
+##### Keynotes:
 
 [**Vulnerability Management using Nessus (Tenable) + Scan and Fix Vulnerabilities**](https://github.com/taniaortiz0/Vulnerability-Management-using-Nessus)
 
-*** Tools: Microsoft Azure, Nessus Vulnerability Management Software, Windows 11, VmWare Workstation Pro 17
+##### Tools: Microsoft Azure, Nessus Vulnerability Management Software, Windows 11, VmWare Workstation Pro 17
 
 [**Vulnerability Management using Greenbone OpenVAS**](https://github.com/taniaortiz0/Vulnerability-Management-using-Greenbone-OpenVAS)
 
-*** Tools: Microsoft Azure Services, Greenbone OpenVAS
+##### Tools: Microsoft Azure Services, Greenbone OpenVAS
 
-*** Keynotes:
+##### Keynotes:
 _______________________________________________________________________________________________
 
 ## Windows Active Directory Projects
 
 [**Active Directory Home Lab**](https://github.com/taniaortiz0/AD-GPM-with-PowerShell-Automation)
 
-*** Tools: Oracle VirtualBox, PowerShell, Windows 11, Windows Server 2022
+##### Tools: Oracle VirtualBox, PowerShell, Windows 11, Windows Server 2022
 
-*** Keynotes:
+##### Keynotes:
