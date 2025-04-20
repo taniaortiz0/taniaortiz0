@@ -19,8 +19,7 @@ ________________________________________________________________________________
 
  [**SIEM Simulation with Microsoft Azure + Honeypot**](https://github.com/taniaortiz0/SIEM-Simulation-with-Microsoft-Azure)
 
-##### Tools: Microsoft Azure Services (Resource group, Log Analytics Workspace, Windows 10 VM,
-Virtual network, Network security group)
+##### Tools: Microsoft Azure Services (Resource group, Log Analytics Workspace, Windows 10 VM, Virtual network, Network security group)
 
 ##### Keynotes:
 
