@@ -24,6 +24,7 @@ Virtual network, Network security group)
 
 Keynotes:
 
+[Vulnerability Management using Nessus]
 
 _______________________________________________________________________________________________
 
