@@ -31,5 +31,6 @@ ________________________________________________________________________________
 
 [**Active Directory Home Lab**](https://github.com/taniaortiz0/AD-GPM-with-PowerShell-Automation)
 
+Tools: Oracle VirtualBox, PowerShell, Windows 11, Windows Server 2022
 
 
