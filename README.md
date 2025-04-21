@@ -22,7 +22,7 @@ ________________________________________________________________________________
 
 _______________________________________________________________________________________________
 
-## Cybersecurity & SOC Analyst Projects 
+## 🔒 Cybersecurity & SOC Analyst Projects 
 
  [**SIEM Simulation with Microsoft Azure + Honeypot**](https://github.com/taniaortiz0/SIEM-Simulation-with-Microsoft-Azure)
 
@@ -41,7 +41,7 @@ ________________________________________________________________________________
 ##### Keynotes:
 _______________________________________________________________________________________________
 
-## Windows Active Directory Projects
+## 🗄️ Windows Active Directory Projects
 
 [**Active Directory Home Lab**](https://github.com/taniaortiz0/AD-GPM-with-PowerShell-Automation)
 
@@ -59,9 +59,9 @@ ________________________________________________________________________________
 
 ________________________________________________________________________________________________
 
-## Python Projects 
+## 🐍 Python Projects 
 
-[Python Script to Image Process Geophysical Data](https://github.com/taniaortiz0/PyScript-Image-Processing-GeoData)
+[**Python Script to Image Process Geophysical Data**](https://github.com/taniaortiz0/PyScript-Image-Processing-GeoData)
 
 #### Tools: Python Libraries (xarray, matplotlib, numpy, netCDF4)
 
