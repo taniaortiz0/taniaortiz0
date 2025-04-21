@@ -49,3 +49,21 @@ ________________________________________________________________________________
 •	Created a domain and admin account to administer 1000+ users (Users were created using a PowerShell script).
 
 •	Configured Windows 11 as the Client to act as a private-internal network through DC.
+
+________________________________________________________________________________________________
+
+## Python Projects 
+
+[Python Script to Image Process Geophysical Data](https://github.com/taniaortiz0/PyScript-Image-Processing-GeoData)
+
+#### Tools: Python Libraries (xarray, matplotlib, numpy, netCDF4)
+
+#### Keynotes:
+
+•	Gathered NetCDF4 files (scientific data) and were imaged processed by using Python and its libraries. 
+•	Numpy was utilized for numerical computing with arrays and matrices.
+•	Matplotlib was used for 3D visualization and plots to have a display of the radargram. 
+•	NetCDF4 which allows you to read and write NetCDF files in Python.
+•	Xarray for working with labeled multi-dimensional arrays.
+
+
