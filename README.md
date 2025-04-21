@@ -46,6 +46,6 @@ ________________________________________________________________________________
 
 •	Utilized different services (Active Directory Domain Services, Remote Access Server, DHCP Server, DNS). 
 
-•	Created a domain and admin account to administer 1000+ users. 
+•	Created a domain and admin account to administer 1000+ users (Users were created using a PowerShell script).
 
 •	Configured Windows 11 as the Client to act as a private-internal network through DC.
