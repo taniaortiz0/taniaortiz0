@@ -13,6 +13,13 @@ ________________________________________________________________________________
 
 ##### Tools:
 ##### Keynotes:
+
+[**Python Networking**](https://github.com/taniaortiz0/Python-Networking)
+
+#### Tools: Python Libraries (argparse, os, paramiko, shlex, socket, subprocess, sys, textwrap, threading)
+
+#### Keynotes:
+
 _______________________________________________________________________________________________
 
 ## Cybersecurity & SOC Analyst Projects 
