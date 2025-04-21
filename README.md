@@ -61,9 +61,13 @@ ________________________________________________________________________________
 #### Keynotes:
 
 •	Gathered NetCDF4 files (scientific data) and were imaged processed by using Python and its libraries. 
+
 •	Numpy was utilized for numerical computing with arrays and matrices.
+
 •	Matplotlib was used for 3D visualization and plots to have a display of the radargram. 
+
 •	NetCDF4 which allows you to read and write NetCDF files in Python.
+
 •	Xarray for working with labeled multi-dimensional arrays.
 
 
