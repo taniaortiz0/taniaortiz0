@@ -43,6 +43,9 @@ ________________________________________________________________________________
 ##### Keynotes:
 
 •	Configured Windows Server 2022 as the Domain Controller (DC) for the two NICs (Internet and Internal). 
+
 •	Utilized different services (Active Directory Domain Services, Remote Access Server, DHCP Server, DNS). 
+
 •	Created a domain and admin account to administer 1000+ users. 
+
 •	Configured Windows 11 as the Client to act as a private-internal network through DC.
