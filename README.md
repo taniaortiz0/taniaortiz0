@@ -7,8 +7,8 @@
 Eager to contribute to a future-focused organization by optimizing IT systems and implement strong security strategies.
 
 ______________________________________________________________________________________________
-## 💻 Networking & IT Support Projects 
-### Cisco Packet Tracker Simulations & IT Support (in-progress)
+## 💻 Networking & IT Support Projects (in-progress)
+### Cisco Packet Tracker Simulations & IT Support
 #### Building a Office Network & IT Support Implementation
 
 ##### Tools:
@@ -77,4 +77,5 @@ ________________________________________________________________________________
 
 •	Xarray for working with labeled multi-dimensional arrays.
 
+________________________________________________________________________________________________
 
