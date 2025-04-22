@@ -8,7 +8,7 @@ Eager to contribute to a future-focused organization by optimizing IT systems an
 
 ______________________________________________________________________________________________
 ## 💻 Networking & IT Support Projects 
-### Cisco Packet Tracker Simulations & IT Support
+### Cisco Packet Tracker Simulations & IT Support (in-progress)
 #### Building a Office Network & IT Support Implementation
 
 ##### Tools:
@@ -22,7 +22,7 @@ ________________________________________________________________________________
 
 _______________________________________________________________________________________________
 
-## 🔒 Cybersecurity & SOC Analyst Projects 
+## 🔒 Cybersecurity & SOC Analyst Projects (in-progress)
 
  [**SIEM Simulation with Microsoft Azure + Honeypot**](https://github.com/taniaortiz0/SIEM-Simulation-with-Microsoft-Azure)
 
