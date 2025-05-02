@@ -22,29 +22,34 @@ ________________________________________________________________________________
 
 _______________________________________________________________________________________________
 
-## 🔒 Cybersecurity & SOC Analyst Projects (in-progress)
+## 🔒 Cybersecurity & SOC Analyst Projects
 
- [**SIEM Simulation with Microsoft Azure + Honeypot**](https://github.com/taniaortiz0/SIEM-Simulation-with-Microsoft-Azure)
+ [**SIEM Simulation with Microsoft Azure + Honeypot**](https://github.com/taniaortiz0/SIEM-Simulation-with-Microsoft-Azure) (#1)
 
 ##### Tools: Microsoft Azure Services (Resource group, Log Analytics Workspace, Windows 10 VM, Virtual network, Network security group)
 
 ##### Keynotes:
 
 •	Virtual Machine will act as a honeypot allowing all unsecure ports open for incoming traffic.
+
 •	Firewall configurations were made through connection via RDP for allowing all unsecure ports.
+
 •	Created Microsoft Sentinel workspace and installed Data Connectors (Security Events via Legacy Agent and Windows Security Events via AMA).
+
 •	Created a Log Analytics workspace and a data collection rule to forward logs.
+
 •	Kusto Query Language (KQL) was utilized to view Security Events using parameters/filters.
+
 •	GeoIP Data was utilized to display a Live-Attack map to view incoming/outcoming traffic.
 
 
-[**Vulnerability Management using Nessus (Tenable) + Scan and Fix Vulnerabilities**](https://github.com/taniaortiz0/Vulnerability-Management-using-Nessus)
+[**Vulnerability Management using Nessus (Tenable) + Scan and Fix Vulnerabilities**](https://github.com/taniaortiz0/Vulnerability-Management-using-Nessus) (#2)
 
-##### Tools: Microsoft Azure, Nessus Vulnerability Management Software, Windows 11, VmWare Workstation Pro 17
+##### Tools: Microsoft Azure Services, Nessus Vulnerability Management Software, Windows 11
 
-[**Vulnerability Management using Greenbone OpenVAS**](https://github.com/taniaortiz0/Vulnerability-Management-using-Greenbone-OpenVAS)
+[**Vulnerability Management using Greenbone OpenVAS**](https://github.com/taniaortiz0/Vulnerability-Management-using-Greenbone-OpenVAS) (#3)
 
-##### Tools: Microsoft Azure Services, Greenbone OpenVAS
+##### Tools: Microsoft Azure Services, Greenbone OpenVAS, Windows 11
 
 ##### Keynotes:
 _______________________________________________________________________________________________
