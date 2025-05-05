@@ -70,11 +70,12 @@ ________________________________________________________________________________
 
 •	Configured Windows 11 as the Client to act as a private-internal network through DC.
 
-[**Active Directory Corporate Network Simulation**](
+[**Active Directory Corporate Network Simulation**](https://github.com/taniaortiz0?tab=repositories)
 
-#### Tools: Fedora Server, OpenVPN Access Server & Services, LDAP, Windows 11
+#### Tools: Fedora Server, OpenVPN Access Server & Services, Oracle VirtualBox, LDAP, Windows 11
 
 #### Keynotes:
+- In continuation of the Active Directory Home Lab
 
 ________________________________________________________________________________________________
 
