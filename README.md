@@ -12,13 +12,8 @@ ________________________________________________________________________________
 #### Building a Office Network & IT Support Implementation
 
 ##### Tools:
+
 ##### Keynotes:
-
-[**Python Networking**](https://github.com/taniaortiz0/Python-Networking)
-
-#### Tools: Python Libraries (argparse, os, paramiko, shlex, socket, subprocess, sys, textwrap, threading)
-
-#### Keynotes:
 
 _______________________________________________________________________________________________
 
@@ -42,16 +37,9 @@ ________________________________________________________________________________
 
 •	GeoIP Data was utilized to display a Live-Attack map to view incoming/outcoming traffic.
 
-
 [**Vulnerability Management using Nessus (Tenable) + Scan and Fix Vulnerabilities**](https://github.com/taniaortiz0/Vulnerability-Management-using-Nessus) (Part #2)
 
 ##### Tools: Microsoft Azure Services, Nessus Vulnerability Management Software, Windows 11
-
-[**Vulnerability Management using Greenbone OpenVAS**](https://github.com/taniaortiz0/Vulnerability-Management-using-Greenbone-OpenVAS) (Part #3)
-
-##### Tools: Microsoft Azure Services, Greenbone OpenVAS, Windows 11
-
-##### Keynotes:
 _______________________________________________________________________________________________
 
 ## 🗄️ Windows Active Directory Projects
@@ -72,11 +60,11 @@ ________________________________________________________________________________
 
 [**Active Directory Corporate Network Simulation**](https://github.com/taniaortiz0?tab=repositories)
 
-#### Tools: Fedora Server, OpenVPN Access Server & Services, Oracle VirtualBox, LDAP, Windows 11
+#### Tools: Fedora Server, OpenVPN Access Server & Services, Oracle VirtualBox, LDAP, SFTP, Windows 11
 
 #### Keynotes:
-- In continuation of the Active Directory Home Lab
 
+- In continuation of the Active Directory Home Lab
 ________________________________________________________________________________________________
 
 ## 🐍 Python Projects 
