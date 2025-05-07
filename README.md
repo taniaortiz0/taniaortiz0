@@ -60,7 +60,7 @@ ________________________________________________________________________________
 
 [**Active Directory Corporate Network Simulation**](https://github.com/taniaortiz0?tab=repositories)
 
-#### Tools: Fedora Server, OpenVPN Access Server & Services, Oracle VirtualBox, LDAP, SFTP, Windows 11
+#### Tools: OpenVPN Access Server & Services, Oracle VirtualBox, LDAP, SFTP, Windows 11
 
 #### Keynotes:
 
