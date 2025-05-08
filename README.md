@@ -60,7 +60,7 @@ ________________________________________________________________________________
 
 [**Active Directory Corporate Network Simulation**](https://github.com/taniaortiz0?tab=repositories)
 
-#### Tools: OpenVPN Access Server & Services, Oracle VirtualBox, LDAP, SFTP, Windows 11
+#### Tools: Elasticsearch, Logstash, Kibana, OpenVPN Access Server & Services, Oracle VirtualBox, LDAP, FTPS, Windows Defender, Windows 11 Windows Server 2022, Zabbix
 
 #### Keynotes:
 
