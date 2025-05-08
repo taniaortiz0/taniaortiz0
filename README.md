@@ -19,7 +19,7 @@ ________________________________________________________________________________
 
 ## 🔒 Cybersecurity & SOC Analyst Projects
 
- [**SIEM Simulation with Microsoft Azure + Honeypot**](https://github.com/taniaortiz0/SIEM-Simulation-with-Microsoft-Azure) (Part #1)
+ [**SIEM Simulation with Microsoft Azure + Honeypot**](https://github.com/taniaortiz0/SIEM-Simulation-with-Microsoft-Azure)
 
 ##### Tools: Microsoft Azure Services (Resource group, Log Analytics Workspace, Windows 10 VM, Virtual network, Network security group)
 
@@ -37,7 +37,7 @@ ________________________________________________________________________________
 
 •	GeoIP Data was utilized to display a Live-Attack map to view incoming/outcoming traffic.
 
-[**Vulnerability Management using Nessus (Tenable) + Scan and Fix Vulnerabilities**](https://github.com/taniaortiz0/Vulnerability-Management-using-Nessus) (Part #2)
+[**Vulnerability Management using Nessus (Tenable) + Scan and Fix Vulnerabilities**](https://github.com/taniaortiz0/Vulnerability-Management-using-Nessus)
 
 ##### Tools: Microsoft Azure Services, Nessus Vulnerability Management Software, Windows 11
 _______________________________________________________________________________________________
