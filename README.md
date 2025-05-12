@@ -58,9 +58,9 @@ ________________________________________________________________________________
 
 •	Configured Windows 11 as the Client to act as a private-internal network through DC.
 
-[**Active Directory Corporate Network Simulation**](https://github.com/taniaortiz0?tab=repositories)
+[**Active Directory Corporate Network Simulation**](https://github.com/taniaortiz0/AD-Corp-Net-Simulation)
 
-#### Tools: Elasticsearch, Logstash, Kibana, OpenVPN Access Server & Services, Oracle VirtualBox, LDAP, FTPS, Windows Defender, Windows 11 Windows Server 2022, Zabbix
+#### Tools: OpenDNS, OpenVPN Access Server & Services, Oracle VirtualBox, OpenSSH Server (SFTP), Windows Defender Firewall, Windows 11, Windows Server 2022
 
 #### Keynotes:
 
