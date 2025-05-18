@@ -46,7 +46,7 @@ ________________________________________________________________________________
 
 [**Active Directory Home Lab**](https://github.com/taniaortiz0/AD-GPM-with-PowerShell-Automation)
 
-##### Tools: Oracle VirtualBox, PowerShell, PFSense, Windows 11, Windows Server 2022
+##### Tools: VMWare Workstation Pro 17, PowerShell, PFSense, Windows 11, Windows Server 2022
 
 ##### Keynotes:
 
