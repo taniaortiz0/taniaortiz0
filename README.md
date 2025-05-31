@@ -66,7 +66,7 @@ ________________________________________________________________________________
 
 [**Active Directory Corporate Network Simulation**](https://github.com/taniaortiz0/AD-Corp-Net-Simulation)
 
-#### Tools: OpenDNS, OpenVPN Access Server & Services, Oracle VirtualBox, OpenSSH Server (SFTP), Windows Defender Firewall, Windows 11, Windows Server 2022
+#### Tools: OpenDNS, OpenVPN Access Server & Services, VmWare Workstation Pro 17, OpenSSH Server (SFTP), Windows Defender Firewall, Windows 11, Windows Server 2022
 
 #### Keynotes:
 
