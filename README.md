@@ -8,7 +8,7 @@ Eager to contribute to a future-focused organization by optimizing IT systems an
 
 ______________________________________________________________________________________________
 ## 💻 Networking & IT Support Projects (in-progress)
-### Cisco Packet Tracker Simulations & IT Support
+### Cisco Packet Tracer Simulations & IT Support
 #### Building a Office Network & IT Support Implementation
 
 ##### Tools:
