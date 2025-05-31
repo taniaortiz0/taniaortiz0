@@ -75,7 +75,7 @@ ________________________________________________________________________________
 
 #### Keynotes:
 
-•	Gathered a NetCDF4 file (scientific data) and were imaged processed by using Python and its libraries. 
+•	Gathered a NetCDF4 file (scientific data) and was imaged processed by using Python and its libraries. 
 
 •	Numpy was utilized for numerical computing with arrays and matrices.
 
