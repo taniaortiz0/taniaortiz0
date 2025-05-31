@@ -17,7 +17,7 @@ ________________________________________________________________________________
 
 #### Network Redesign 
 
-#### Lan/WAN Architecture
+#### LAN/WAN Architecture
 
 #### Configuring a VLAN
 
