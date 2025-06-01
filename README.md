@@ -2,7 +2,7 @@
 ### Welcome to my Cybersecurity and Information Technology Portfolio!
 
 #### Cybersecurity Undergraduate Student
-🔗 [**LinkedIn**](https://www.linkedin.com/in/tania-ortiz1) | Blog / Write-Ups 🔗 [**Medium**](https://medium.com/@bytayo) | Aspiring Cybersecurity Professional
+🔗 [**LinkedIn**](https://www.linkedin.com/in/tania-ortiz1) | Aspiring Cybersecurity Professional
 
 Eager to contribute to a future-focused organization by optimizing IT systems and implement strong security strategies.
 
