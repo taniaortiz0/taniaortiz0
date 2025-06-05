@@ -75,7 +75,7 @@ ________________________________________________________________________________
 
 ## 🐍 Python Projects 
 
-[**Python Script to Image Process Geophysical Data**](https://github.com/taniaortiz0/PyScript-Image-Processing-GeoData)
+[**Python Image Processing Script for Geophysical Data**](https://github.com/taniaortiz0/PyScript-Image-Processing-GeoData)
 
 #### Tools: Python Libraries (xarray, matplotlib, numpy, netCDF4)
 
