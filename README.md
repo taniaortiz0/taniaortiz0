@@ -9,11 +9,15 @@ Eager to contribute to a future-focused organization by optimizing IT systems an
 ______________________________________________________________________________________________
 ## 💻 Networking & IT Support Projects (in-progress)
 ### Cisco Packet Tracer Simulations & IT Troubleshooting
-#### VLANs, Switching, & Troubleshooting
 
-##### Tools:
+[**VLANs, Switching, & Troubleshooting**](https://github.com/taniaortiz0/Troubleshooting-Switches-VLANs)
+
+##### Tools: Cisco Packet Tracer
 
 ##### Keynotes:
+- Configured VLANs & Switches for troubleshooting.
+- Relevant protocols and commands was utilized during the simulation.
+
 
 #### Network Redesign 
 
