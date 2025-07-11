@@ -95,6 +95,12 @@ ________________________________________________________________________________
 
 •	Xarray for working with labeled multi-dimensional arrays.
 
+[**Network Security Docker Lab**](https://github.com/taniaortiz0/Net-Sec-Docker-Lab)
+
+#### Tools: Docker, Linode, PiHole, Python, OpenDNS, IFTTT, Flask
+
+#### Keynotes: 
+
 
 
 [**Infoblox API Metric Exporter**](https://github.com/taniaortiz0/IB-API-Metric-Exporter)
