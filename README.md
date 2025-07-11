@@ -95,8 +95,15 @@ ________________________________________________________________________________
 
 •	Xarray for working with labeled multi-dimensional arrays.
 
-________________________________________________________________________________________________
 
-## DevOps Projects (in-progress)
+
+[**Infoblox API Metric Exporter**](https://github.com/taniaortiz0/IB-API-Metric-Exporter)
+
+#### Tools: Docker, FastAPI, Infoblox, Kubernetes, Python, Prometheus, Grafana, SDK
+
+#### Keynotes:
+
+
+________________________________________________________________________________________________
 
 
