@@ -7,7 +7,7 @@
 Eager to contribute to a future-focused organization by optimizing IT systems and implement strong security strategies.
 
 ______________________________________________________________________________________________
-## 💻 Networking & IT Support Projects (in-progress)
+## 💻 Networking & IT Support Projects
 ### Cisco Packet Tracer Simulations & IT Troubleshooting
 
 [**VLANs, Switching, & Troubleshooting**](https://github.com/taniaortiz0/Troubleshooting-Switches-VLANs)
