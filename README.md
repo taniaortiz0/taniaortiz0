@@ -79,7 +79,7 @@ ________________________________________________________________________________
 
 ## 🐍 Python Projects 
 
-[**Python Image Processing Script for Geophysical Data**](https://github.com/taniaortiz0/PyScript-Image-Processing-GeoData)
+[**Python Image Processing Script for Geospatial Data**](https://github.com/taniaortiz0/PyScript-Image-Processing-GeoData)
 
 #### Tools: Python Libraries (xarray, matplotlib, numpy, netCDF4)
 
@@ -97,7 +97,7 @@ ________________________________________________________________________________
 
 [**Network Security Docker Lab**](https://github.com/taniaortiz0/Net-Sec-Docker-Lab)
 
-#### Tools: Docker, Linode, PiHole, Python, OpenDNS, IFTTT, Flask
+#### Tools: Docker, Linode, PiHole, Python, OpenDNS, IFTTT, Flask, TP-Link
 
 #### Keynotes: 
 
