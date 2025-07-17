@@ -50,11 +50,23 @@ ________________________________________________________________________________
 [**Vulnerability Management using Nessus (Tenable) + Scan and Fix Vulnerabilities**](https://github.com/taniaortiz0/Vulnerability-Management-using-Nessus)
 
 ##### Tools: Microsoft Azure Services, Nessus Vulnerability Management Software, Windows 11
+
+##### Keynotes: 
+
+
+
+[**SIEM, Network Forensics, & Incident Response Home Lab**](https://github.com/taniaortiz0/SIEM-NF-IR-Home-Lab)
+
+##### Tools: Ubuntu, REMNux, Cloudflare, Splunk
+
+##### Keynotes: 
+
+
 _______________________________________________________________________________________________
 
 ## 🗄️ Windows Active Directory Projects
 
-[**Active Directory Home Lab**](https://github.com/taniaortiz0/AD-GPM-with-PowerShell-Automation)
+[**Active Directory Home Lab**](https://github.com/taniaortiz0/Active-Directory-Home-Lab)
 
 ##### Tools: VMWare Workstation Pro 17, PowerShell, Windows 11, Windows Server 2022
 
@@ -73,6 +85,7 @@ ________________________________________________________________________________
 #### Tools: OpenVPN Access Server & Services, VmWare Workstation Pro 17, OpenSSH Server (SFTP), Windows Defender Firewall, Windows 11, Windows Server 2022
 
 #### Keynotes:
+
 
 - In continuation of the Active Directory Home Lab
 ________________________________________________________________________________________________
