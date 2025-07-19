@@ -108,6 +108,14 @@ ________________________________________________________________________________
 
 •	Xarray for working with labeled multi-dimensional arrays.
 
+[**COVID-19 and Unemployment Rate Analytics**](https://github.com/taniaortiz0/COVID-19-UER-Analytics)
+
+#### Tools: Excel, Python Libraries (pandas, seaborn, matplotlib, plotly)
+
+#### Keynotes:
+
+
+
 [**Network Security Docker Lab**](https://github.com/taniaortiz0/Net-Sec-Docker-Lab)
 
 #### Tools: Docker, Linode, PiHole, Python, OpenDNS, IFTTT, Flask, TP-Link
