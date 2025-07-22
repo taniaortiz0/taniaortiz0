@@ -126,7 +126,7 @@ ________________________________________________________________________________
 
 [**Infoblox API Metric Exporter**](https://github.com/taniaortiz0/IB-API-Metric-Exporter)
 
-#### Tools: Docker, FastAPI, Infoblox, Kubernetes, Python, Prometheus, Grafana, SDK
+#### Tools: Docker, FastAPI, Infoblox, Kubernetes, Python, Prometheus, Gitlab, Grafana, SDK, YAML
 
 #### Keynotes:
 
