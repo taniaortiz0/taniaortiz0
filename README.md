@@ -123,16 +123,9 @@ ________________________________________________________________________________
 #### Keynotes: 
 
 
+[**Netbox Metric Exporter**](https://github.com/taniaortiz0/Netbox_Metric_Exporter)
 
-[**Infoblox API Metric Exporter**](https://github.com/taniaortiz0/IB-API-Metric-Exporter)
-
-#### Tools: Docker, FastAPI, Infoblox, Kubernetes, Postman, Python, Prometheus, Gitlab, Grafana, SDK, YAML
-
-#### Keynotes:
-
-[[**Netbox API Metric Exporter**]]
-
-#### Tools: 
+#### Tools: Docker, FastAPI, Netbox, Kubernetes, Postman, Python, Prometheus, Gitlab, Grafana, SDK, YAML
 
 #### Keynotes:
 
