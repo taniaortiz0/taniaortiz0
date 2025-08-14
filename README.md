@@ -4,8 +4,10 @@
 #### Cybersecurity Undergraduate Student
 🔗 [**LinkedIn**](https://www.linkedin.com/in/tania-ortiz1) | Aspiring Cybersecurity Professional
 
-Eager to contribute to a future-focused organization by optimizing IT systems and implement strong security strategies.
-
+- 2+yrs as an Analyst working in various domains (Finance, Supply Chain & Research)
+- 3+yrs using Python
+- Interests in FinTech, Cyberspace, and Supply Chain & Logistics
+  
 ______________________________________________________________________________________________
 ## 💻 Networking & IT Support Projects
 ### Cisco Packet Tracer Simulations & IT Troubleshooting
@@ -95,7 +97,7 @@ ________________________________________________________________________________
 
 - In continuation of the Active Directory Home Lab
   
-________________________________________________________________________________________________
+_______________________________________________________________________________________________
 
 ## 🐍 Python Projects 
 
