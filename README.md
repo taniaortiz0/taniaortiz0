@@ -57,10 +57,14 @@ ________________________________________________________________________________
 
 [**SIEM, Network Forensics, & Incident Response Home Lab**](https://github.com/taniaortiz0/SIEM-NF-IR-Home-Lab)
 
-##### Tools: Ubuntu, REMNux, Cloudflare, Splunk
+##### Tools: VmWare Workstation Pro17, Ubuntu, REMNux, Cloudflare, Splunk
 
 ##### Keynotes: 
 
+• Created an isolated environment to analyze security incidents and malware.
+• Configured Splunk on Ubuntu to analyze security incidents utilizing sample data from Splunk    BOSS of the SOC (version 3).
+• Setup Remnux and utilized the tool for malware analysis to analyze malicious software.
+• Configured Cloudflare on Windows 11 to conduct network forensics and monitoring.
 
 _______________________________________________________________________________________________
 
@@ -86,8 +90,8 @@ ________________________________________________________________________________
 
 #### Keynotes:
 
-
 - In continuation of the Active Directory Home Lab
+  
 ________________________________________________________________________________________________
 
 ## 🐍 Python Projects 
@@ -114,6 +118,12 @@ ________________________________________________________________________________
 
 #### Keynotes:
 
+• Cleaned and structured 141 monthly observations from .xlsx format.
+• Filtered and segmented data by country to track timeline-specific trends.
+• Used Plotly and Seaborn to build both interactive and static charts.
+• Calculated Pearson correlation coefficients to quantify relationships.
+• Identified weak to moderate correlations between COVID-19 surges and labor market fluctations.
+• Clearly communicated insights using well-annotated graphs and written interpretation.
 
 
 [**Network Security Docker Lab**](https://github.com/taniaortiz0/Net-Sec-Docker-Lab)
