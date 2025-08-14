@@ -107,6 +107,10 @@ ________________________________________________________________________________
 
 #### Keynotes:
 
+• Created a 45-page APA formatted research paper called Data Collection of Radargrams and Image Processing using Python.
+
+• The APA formatted research paper contains radar stratigraphy and glaciology terminology, literature reviews, methods, results, discussion, conclusion, references, and an appendix.
+
 •	Gathered NetCDF4 files (scientific data) and was imaged processed by using Python and its libraries. 
 
 •	Numpy was utilized for numerical computing with arrays and matrices.
@@ -149,8 +153,12 @@ ________________________________________________________________________________
 
 #### Keynotes:
 
-
-
 ________________________________________________________________________________________________
 
+## 🧰 Engineering Projects
 
+[**Re-design of UAV Airplane for Mars**](https://github.com/taniaortiz0/Re-design-of-UAV-Airplane-for-Mars)
+
+#### Keynotes:
+
+- A past project I did for research purposes that involved engineering tools and a research paper.
