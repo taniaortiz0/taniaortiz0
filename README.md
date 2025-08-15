@@ -50,12 +50,11 @@ ________________________________________________________________________________
 
 •	GeoIP Data was utilized to display a Live-Attack map to view incoming/outcoming traffic.
 
-[**Vulnerability Management using Nessus (Tenable) + Scan and Fix Vulnerabilities**](https://github.com/taniaortiz0/Vulnerability-Management-using-Nessus)
+[**Vulnerability Management using Nessus (Tenable) + Scan and Fix Vulnerabilities](https://github.com/taniaortiz0/Vuln-Manage-Nessus-Scan-Fix-Vulns)
 
 ##### Tools: Microsoft Azure Services, Nessus Vulnerability Management Software, Windows 11
 
 ##### Keynotes: 
-
 
 
 [**SIEM, Network Forensics, & Incident Response Home Lab**](https://github.com/taniaortiz0/SIEM-NF-IR-Home-Lab)
