@@ -170,7 +170,7 @@ ________________________________________________________________________________
 
 • (Will provide only a summary of what I did). 
 
-• Written a 33-page APA formatted research paper.
+• Written a APA formatted research paper.
 
 • Created a Powerpoint presentation.
 
