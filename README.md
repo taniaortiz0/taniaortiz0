@@ -6,6 +6,7 @@
 
 - 2+yrs as an Analyst working in various domains (Finance, Supply Chain & Research)
 - 3+yrs using Python
+- Lyricist and Writer
 - Interests in FinTech, Cyberspace, and Supply Chain & Logistics
   
 ______________________________________________________________________________________________
@@ -107,9 +108,9 @@ ________________________________________________________________________________
 
 #### Keynotes:
 
-• Created a 45-page APA formatted research paper called Data Collection of Radargrams and Image Processing using Python.
+• Created an APA formatted research paper called Data Collection of Radargrams and Image Processing using Python.
 
-• The APA formatted research paper contains radar stratigraphy and glaciology terminology, literature reviews, methods, results, discussion, conclusion, references, and an appendix.
+• Will only provide script for the Geospatial Data as I did other tasks that were being assigned by the organization.
 
 •	Gathered NetCDF4 files (scientific data) and was imaged processed by using Python and its libraries. 
 
@@ -153,12 +154,54 @@ ________________________________________________________________________________
 
 #### Keynotes:
 
+• Created a custom API Metric Exporter using Netbox Labs SDK, Python, FastAPI, and Prometheus to gather real-time performance data from Organization (sites), IPAM (aggregates, prefixes, IP ranges, IP addresses), DCIM (sites, racks, device types, devices, cables), Virtualization (Clusters, Virtual Machines), and Circuits (Providers, Circuits, and Provider Accounts).
+
+• Containerized the application with Docker, deployed and securely managed it through Kubernetes (K8s) and KubeSphere enviroments to ensure seamless releases and scalability.
+
+• Integrated the exporter with Grafana dashboards, enabling live monitoring and proactive analysis of sites, IPAM, DCIM, Virtualization, and Circuits metrics to improve network observability and incident response efficiency.
+
 ________________________________________________________________________________________________
 
-## 🧰 Engineering Projects
+# 🔍 Other Research Projects/Papers
+
+[**Covid-19 and Its Effects on Online Activity**](https://github.com/taniaortiz0/Covid-19-and-Its-Effects-on-Online-Activity)
+
+#### Keynotes: 
+
+• (Will provide only a summary of what I did). 
+
+• Written a 33-page APA formatted research paper.
+
+• Created a Powerpoint presentation.
+
+• Utilized Literature Reviews to support my research objective and questions.
+
+• Created a survey for the Methods section involving Cybersecurity and the Stock Market.
+
+• Utilized Excel to create statistical analysis such as ANOVA and T-tests. 
 
 [**Re-design of UAV Airplane for Mars**](https://github.com/taniaortiz0/Re-design-of-UAV-Airplane-for-Mars)
 
 #### Keynotes:
 
-- A past project I did for research purposes that involved engineering tools and a research paper.
+• (Will only provide a summary of what I did).
+
+•  Created a UAV Airplane in both drawing software applications (AutoCAD & SolidWorks).
+
+•  Solidify redesign parameters (change AOA, pitch, propellor diameter, camber, chord, chord thickness, wingspan, velocity, material).
+
+•  Utilized NASA FoilSim to determine the airflow around various shapes of airfoils.
+
+•  Utilized Microsoft Office to make comparisons between Earth's and Mars's atmospheres.
+
+•  Verify Thrust Formula using Microsoft Office.
+
+•  Created Report paper (Re-design of UAV Airplane for Mars) and Powerpoint for research and presentation purposes.
+
+•  Further Improvements needed to be made such as finding ways to reduce drag on a Chevrolet Silverado pickup truck to increase gas mileage.
+
+---
+
+
+
+
