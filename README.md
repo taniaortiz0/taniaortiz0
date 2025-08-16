@@ -107,7 +107,7 @@ ________________________________________________________________________________
 
 #### Keynotes:
 
-• Created an APA formatted research paper called Data Collection of Radargrams and Image Processing using Python.
+• Created an APA formatted research paper
 
 • Will only provide script for the Geospatial Data as I did other tasks that were being assigned by the organization.
 
@@ -164,7 +164,14 @@ ________________________________________________________________________________
 
 # 🔍 Research Projects
 
-[**Covid-19 and Its Effects on Online Activity**](https://github.com/taniaortiz0/Covid-19-and-Its-Effects-on-Online-Activity)
+[**Data Collection of Radargrams and Image Processing using Python**](https://github.com/taniaortiz0/DC-RADAR-IP-PY/tree/main)
+
+#### Keynotes:
+
+• Created a APA formatted research paper...
+
+
+[**Covid-19 and Its Effects on Online Activity**](https://github.com/taniaortiz0/CV19-IMPACT-ON-ACT)
 
 #### Keynotes: 
 
@@ -180,7 +187,11 @@ ________________________________________________________________________________
 
 • Utilized Excel to create statistical analysis such as ANOVA and T-tests. 
 
-[**Re-design of UAV Airplane for Mars**](https://github.com/taniaortiz0/Re-design-of-UAV-Airplane-for-Mars)
+[**Covid-19 and Impact on Supply Chain and Employment**](https://github.com/taniaortiz0/CV19-IMPACT-SPPLY-EMPLOY/tree/main)
+
+• Created report paper and powerpoint presentation....
+
+[**Re-design of UAV Airplane for Mars**](https://github.com/taniaortiz0/RED-UAV-AIR-MARS/tree/main)
 
 #### Keynotes:
 
