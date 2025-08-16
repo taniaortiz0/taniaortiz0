@@ -146,6 +146,7 @@ ________________________________________________________________________________
 
 #### Keynotes: 
 
+• Got my TP-Link router and about to start this project.
 
 [**Netbox Metric Exporter**](https://github.com/taniaortiz0/Netbox_Metric_Exporter)
 
@@ -161,7 +162,7 @@ ________________________________________________________________________________
 
 ________________________________________________________________________________________________
 
-# 🔍 Other Research Projects
+# 🔍 Research Projects
 
 [**Covid-19 and Its Effects on Online Activity**](https://github.com/taniaortiz0/Covid-19-and-Its-Effects-on-Online-Activity)
 
