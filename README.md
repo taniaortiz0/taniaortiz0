@@ -161,7 +161,7 @@ ________________________________________________________________________________
 
 ________________________________________________________________________________________________
 
-# 🔍 Other Research Projects/Papers
+# 🔍 Other Research Projects
 
 [**Covid-19 and Its Effects on Online Activity**](https://github.com/taniaortiz0/Covid-19-and-Its-Effects-on-Online-Activity)
 
