@@ -1,12 +1,12 @@
 # Tania Ortiz
 ### Welcome to my Cybersecurity and Information Technology Portfolio!
 
-#### Cybersecurity Undergraduate Student
-🔗 [**LinkedIn**](https://www.linkedin.com/in/tania-ortiz1) | Aspiring Cybersecurity Professional
+#### BBA Cybersecurity Undergraduate Student
+🔗 [**LinkedIn**](https://www.linkedin.com/in/tania-ortiz1) |
 
 - 2+yrs as an Analyst working in various domains (Finance, Supply Chain, & Research)
 - 3+yrs using Python
-- Lyricist and Writer (Will provide a link soon of my written articles)
+- Lyricist and Writer (Will provide a link soon of my written articles I write on Medium and Personal Website)
 - Interests in FinTech, Cyberspace, and Supply Chain & Logistics
   
 ______________________________________________________________________________________________
