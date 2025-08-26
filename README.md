@@ -6,7 +6,6 @@
 
 - 2+yrs as an Analyst working in various domains (Finance, Supply Chain, & Research)
 - 3+yrs using Python
-- Lyricist and Writer (Will provide a link soon of my written articles I write on Medium and Personal Website)
 - Interests in FinTech, Cyberspace, and Supply Chain & Logistics
   
 ______________________________________________________________________________________________
