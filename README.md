@@ -74,10 +74,6 @@ ________________________________________________________________________________
 
 #### Keynotes:
 
-• Created an APA formatted research paper
-
-• Will only provide script for the Geospatial Data as I did other tasks that were being assigned by the organization.
-
 •	Gathered NetCDF4 files (scientific data) and was imaged processed by using Python and its libraries. 
 
 •	Numpy was utilized for numerical computing with arrays and matrices.
