@@ -1,14 +1,64 @@
 # Tania Ortiz
-### Welcome to my Cybersecurity and Information Technology Portfolio!
+### Welcome to my FinTech Portfolio!
 
 #### BBA Cybersecurity Undergraduate Student
 🔗 [**LinkedIn**](https://www.linkedin.com/in/tania-ortiz1) |
 
 - 2+yrs as an Analyst working in various domains (Finance, Supply Chain, & Research)
-- 3+yrs using Python
 - Interests in FinTech, Cyberspace, and Supply Chain & Logistics
   
 ______________________________________________________________________________________________
+
+## 🐍 Python Projects 
+
+[**Payments Fraud Detection**](https://github.com/taniaortiz0/Payments_Fraud_Detection)
+
+#### Tools: Python Libraries (numpy, pandas, matplotlib, seaborn)
+
+#### Keynotes: 
+
+
+
+[**Python Image Processing Script for Geospatial Data**](https://github.com/taniaortiz0/PyScript-Image-Processing-GeoData)
+
+#### Tools: Python Libraries (xarray, matplotlib, numpy, netCDF4)
+
+#### Keynotes:
+
+•	Gathered NetCDF4 files (scientific data) and was imaged processed by using Python and its libraries. 
+
+•	Numpy was utilized for numerical computing with arrays and matrices.
+
+•	Matplotlib was used for 3D visualization and plots to have a display of the radargram. 
+
+•	NetCDF4 which allows you to read and write NetCDF files in Python.
+
+•	Xarray for working with labeled multi-dimensional arrays.
+
+[**COVID-19 and Unemployment Rate Analytics**](https://github.com/taniaortiz0/COVID-19-UER-Analytics)
+
+#### Tools: Excel, Python Libraries (pandas, seaborn, matplotlib, plotly)
+
+#### Keynotes:
+
+• Cleaned and structured 141 monthly observations from .xlsx format.
+
+• Filtered and segmented data by country to track timeline-specific trends.
+
+• Used Plotly and Seaborn to build both interactive and static charts.
+
+• Calculated Pearson correlation coefficients to quantify relationships.
+
+• Identified weak to moderate correlations between COVID-19 surges and labor market fluctations.
+
+• Clearly communicated insights using well-annotated graphs and written interpretation.
+
+
+
+
+
+_________________________________________________________________________________________
+
 
 ## 🔒 Cybersecurity & SOC Analyst Projects
 
@@ -64,46 +114,6 @@ ________________________________________________________________________________
 •	Configured Windows 11 as the Client to act as a private-internal network through DC.
   
 _______________________________________________________________________________________________
-
-## 🐍 Python Projects 
-
-[**Python Image Processing Script for Geospatial Data**](https://github.com/taniaortiz0/PyScript-Image-Processing-GeoData)
-
-#### Tools: Python Libraries (xarray, matplotlib, numpy, netCDF4)
-
-#### Keynotes:
-
-•	Gathered NetCDF4 files (scientific data) and was imaged processed by using Python and its libraries. 
-
-•	Numpy was utilized for numerical computing with arrays and matrices.
-
-•	Matplotlib was used for 3D visualization and plots to have a display of the radargram. 
-
-•	NetCDF4 which allows you to read and write NetCDF files in Python.
-
-•	Xarray for working with labeled multi-dimensional arrays.
-
-[**COVID-19 and Unemployment Rate Analytics**](https://github.com/taniaortiz0/COVID-19-UER-Analytics)
-
-#### Tools: Excel, Python Libraries (pandas, seaborn, matplotlib, plotly)
-
-#### Keynotes:
-
-• Cleaned and structured 141 monthly observations from .xlsx format.
-
-• Filtered and segmented data by country to track timeline-specific trends.
-
-• Used Plotly and Seaborn to build both interactive and static charts.
-
-• Calculated Pearson correlation coefficients to quantify relationships.
-
-• Identified weak to moderate correlations between COVID-19 surges and labor market fluctations.
-
-• Clearly communicated insights using well-annotated graphs and written interpretation.
-
-________________________________________________________________________________________________
-
-
 
 
 
