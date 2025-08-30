@@ -4,7 +4,7 @@
 #### BBA Cybersecurity Undergraduate Student
 🔗 [**LinkedIn**](https://www.linkedin.com/in/tania-ortiz1) |
 
-- 2+yrs as an Analyst working in various domains (Finance, Supply Chain, & Research)
+- 2+yrs as an Analyst working in various fields (Finance, Supply Chain, & Research)
 - Interests in FinTech, Cyberspace, and Supply Chain & Logistics
   
 ______________________________________________________________________________________________
