@@ -11,6 +11,13 @@ ________________________________________________________________________________
 
 ## 🐍 Python Projects 
 
+[**Loan Approval Prediction Model**](https://github.com/taniaortiz0/Loan_Approval_Prediction_Model)
+
+#### Tools: 
+
+#### Keynotes: 
+
+
 [**Payments Fraud Detection**](https://github.com/taniaortiz0/Payments_Fraud_Detection)
 
 #### Tools: Python Libraries (numpy, pandas, matplotlib, seaborn)
