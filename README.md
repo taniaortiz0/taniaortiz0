@@ -11,6 +11,14 @@ ________________________________________________________________________________
 
 ## 🐍 Python Projects 
 
+[**Bitcoin Price Prediction with Machine Learning and Visualization**](https://github.com/taniaortiz0/Bitcoin-Price-Prediction-ML)
+
+#### Tools:
+
+#### Keynotes:
+
+
+
 [**Loan Approval Prediction Model**](https://github.com/taniaortiz0/Loan_Approval_Prediction_Model)
 
 #### Tools: 
