@@ -12,6 +12,13 @@ ________________________________________________________________________________
 
 ## 🐍 Python Projects 
 
+[**Financial Time Series Forecasting of Stock Prices with TensorFlow and Visualization**](https://github.com/taniaortiz0/FIN_TIME_SERIES_TENSORFLOW_VIZ)
+
+#### Tools:
+
+#### Keynotes:
+
+
 [**Bitcoin Price Prediction with Machine Learning and Visualization**](https://github.com/taniaortiz0/Bitcoin-Price-Prediction-ML)
 
 #### Tools:
