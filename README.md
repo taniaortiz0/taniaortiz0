@@ -29,12 +29,32 @@ ________________________________________________________________________________
 - Highlighted strengths and limitations of deep learning in financial forecasting.
 
 
+
+
 [**Bitcoin Price Prediction with Machine Learning and Visualization**](https://github.com/taniaortiz0/Bitcoin-Price-Prediction-ML)
 
 #### Tools:
+- Python (primary workflow used in this project)
+- Pandas / NumPy – Data preprocessing and feature engineering.
+- Scikit-learn – Linear Regression, Random Forest, scaling, and evaluation metrics.
+- Matplotlib / Seaborn – Data visualization (predictions, residuals, feature importance, heatmaps).
 
 #### Keynotes:
+- Created target variable (next-day closing price) for supervised learning.
+- Engineered financial indicators:
+  - MA7 and MA14 (moving averages)
+  - Volatility (7-day standard deviation)
+  - Lag features (previous day’s closing price)
 
+- Trained and tested models on historical Bitcoin data:
+  - Linear Regression achieved strong performance with low error and high R².
+  - Random Forest performed poorly, showing signs of overfitting and instability.
+
+- Visualized results with:
+  - Predicted vs. actual Bitcoin prices.
+  - Residual error distributions.
+  - Feature importance scores (Random Forest).
+  - Correlation heatmap of features vs. target.
 
 
 [**Loan Approval Prediction Model**](https://github.com/taniaortiz0/Loan_Approval_Prediction_Model)
