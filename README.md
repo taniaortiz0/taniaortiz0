@@ -15,8 +15,18 @@ ________________________________________________________________________________
 [**Financial Time Series Forecasting of Stock Prices with TensorFlow and Visualization**](https://github.com/taniaortiz0/FIN_TIME_SERIES_TENSORFLOW_VIZ)
 
 #### Tools:
+- Python (core language)
+- TensorFlow / Keras – Deep learning framework for building and training time series forecasting models.
+- NumPy / Pandas – Data preprocessing and manipulation.
+- Matplotlib / Seaborn – Exploratory data visualization.
+- Scikit-learn – Scaling, splitting data, and evaluation metrics.
 
 #### Keynotes:
+- Implemented time series preprocessing: normalization, train/test splits, and sequence generation.
+- Built deep learning models (e.g., LSTM, RNN, or GRU) to capture sequential dependencies.
+- Evaluated model performance using metrics such as MAE, RMSE, and MAPE.
+- Visualized training history, predicted vs. actual prices, and future forecast trends.
+- Highlighted strengths and limitations of deep learning in financial forecasting.
 
 
 [**Bitcoin Price Prediction with Machine Learning and Visualization**](https://github.com/taniaortiz0/Bitcoin-Price-Prediction-ML)
