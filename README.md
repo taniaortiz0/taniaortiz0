@@ -2,7 +2,11 @@
 ### Welcome to my FinTech Portfolio!
 
 #### BBA Cybersecurity Undergraduate Student
-🔗 [**LinkedIn**](https://www.linkedin.com/in/tania-ortiz1) |
+
+- Aspiring Cybersecurity professional with interests in FinTech, Cyberspace, and Supply Chain & Logistics
+- I write articles about FinTech and personal journeys
+  
+🔗 [**LinkedIn**](https://www.linkedin.com/in/tania-ortiz1) | [**Medium**](https://medium.com/@bytayo)
   
 ______________________________________________________________________________________________
 
