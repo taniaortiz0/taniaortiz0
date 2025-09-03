@@ -85,10 +85,31 @@ ________________________________________________________________________________
 
 [**Payments Fraud Detection**](https://github.com/taniaortiz0/Payments_Fraud_Detection)
 
-#### Tools: Python Libraries (numpy, pandas, matplotlib, seaborn)
+#### Tools:
+- Python
+- Pandas / NumPy – Data preprocessing and feature transformation.
+- Scikit-learn – Logistic Regression, Random Forest, SVM, evaluation metrics.
+- XGBoost – Gradient boosting classifier for fraud detection.
+- Matplotlib / Seaborn – Data visualization (class distribution, feature analysis, confusion matrix).
 
 #### Keynotes: 
+- Preprocessed payment transaction data, handling missing values and categorical encoding.
+- Built and compared classification models such as:
+  - Logistic Regression
+  - Random Forest
+  - Gradient Boosting (XGBoost)
+  - Support Vector Machine (SVM)
 
+- Evaluated models using metrics:
+  - Accuracy
+  - Precision, Recall, F1-score
+  - ROC-AUC score
+
+- Visualized fraud detection insights:
+  - Transaction amount distributions (fraud vs. legitimate).
+  - Correlation heatmaps of features.
+  - Feature importance ranking for fraud prediction.
+  - Confusion matrices for model performance interpretation.
 
 
 [**Python Image Processing Script for Geospatial Data**](https://github.com/taniaortiz0/PyScript-Image-Processing-GeoData)
