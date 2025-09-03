@@ -59,9 +59,28 @@ ________________________________________________________________________________
 
 [**Loan Approval Prediction Model**](https://github.com/taniaortiz0/Loan_Approval_Prediction_Model)
 
-#### Tools: 
+#### Tools:
+- Python
+- Pandas / NumPy – Data preprocessing and handling categorical variables.
+- Scikit-learn – Logistic Regression, Decision Trees, Random Forest, evaluation metrics.
+- Matplotlib / Seaborn – Data exploration and visualization of results.
 
 #### Keynotes: 
+- Applied data cleaning and preprocessing (handling missing values, encoding categorical features, scaling).
+- Built and compared models such as:
+  - Logistic Regression (baseline model).
+  - Decision Tree Classifier.
+  - Random Forest Classifier.
+
+- Evaluated performance with metrics:
+  - Accuracy
+  - Precision, Recall, F1-score
+  - Confusion Matrix
+
+- Visualized model results and feature importance to interpret decision-making factors.
+
+
+
 
 
 [**Payments Fraud Detection**](https://github.com/taniaortiz0/Payments_Fraud_Detection)
