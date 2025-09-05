@@ -3,7 +3,7 @@
 
 #### BBA Cybersecurity Undergraduate Student
 
-- Aspiring Cybersecurity professional with interests in FinTech, Cyberspace, and Supply Chain & Logistics
+- I like all things data and cybersecurity with interests in FinTech, Cyberspace, and Supply Chain & Logistics
 - I write articles about FinTech and personal journeys
   
 🔗 **Profile** [**LinkedIn**](https://www.linkedin.com/in/tania-ortiz1) | **Blog** [**Medium**](https://medium.com/@bytayo)
