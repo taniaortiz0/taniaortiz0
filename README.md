@@ -112,7 +112,7 @@ ________________________________________________________________________________
   - Confusion matrices for model performance interpretation.
 
 
-[**Geospatial Image Processing and Visualization**](https://github.com/taniaortiz0/Python-Image-Processing-GeoData)
+[**Geospatial Image Processing and Visualization**](https://github.com/taniaortiz0/GeoData-IP-Visual)
 
 #### Tools: Python Libraries (xarray, matplotlib, numpy, netCDF4)
 
