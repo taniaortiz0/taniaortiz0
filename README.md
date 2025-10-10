@@ -3,7 +3,7 @@
 
 #### BBA Cybersecurity Undergraduate Student
 
-- I like all things data and security with interests in FinTech, Supply Chain & Logistics, and CyberSpace.
+- I like all things data and security.
 - I write articles about FinTech
 - Creating a website (In-Progress)
 
