@@ -3,14 +3,21 @@
 
 #### BBA Cybersecurity Undergraduate Student
 
-- I like all things data and security.
-- I write articles about FinTech
-- Creating a website (In-Progress)
+- I like all things data and security
+- I write about FinTech
 
   
 🔗 **Profile** [**LinkedIn**](https://www.linkedin.com/in/tania-ortiz1) | **Blog** [**Medium**](https://medium.com/@bytayo) | **Website** [**Vercel**](https://bytayo.vercel.app/)
   
 ______________________________________________________________________________________________
+
+## 🐚 PowerShell Projects
+
+[**Workflow PowerShell Scripts**](https://github.com/taniaortiz0/Workflow-PowerShell-Scripts)
+
+#### Keynotes:
+- Created scripts related to workflow management for the general user and SysAdmins and DevOps.
+
 
 ## 🐍 Python Projects 
 
