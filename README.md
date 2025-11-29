@@ -13,10 +13,10 @@ ________________________________________________________________________________
 
 ## 🐚 PowerShell Projects
 
-[**Workflow PowerShell Scripts**](https://github.com/taniaortiz0/Workflow-PowerShell-Scripts)
+[**Workflow Management Scripts**](https://github.com/taniaortiz0/Workflow-PowerShell-Scripts)
 
 #### Keynotes:
-- Created scripts related to workflow management for the general user and SysAdmins and DevOps.
+- Created scripts related to workflow management for general users, SysAdmins, and DevOps Engineers.
 
 _____
 
@@ -88,9 +88,6 @@ _____
   - Confusion Matrix
 
 - Visualized model results and feature importance to interpret decision-making factors.
-
-
-
 
 
 [**Payments Fraud Detection**](https://github.com/taniaortiz0/Payments_Fraud_Detection)
